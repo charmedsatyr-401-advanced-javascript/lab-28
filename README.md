@@ -7,7 +7,7 @@
 
 ### Links and Resources
 * [repo](https://github.com/charmedsatyr-401-advanced-javascript/lab-28)
-* [Travis]: N/A
+* Travis: N/A (Code Sandbox)
 * [Props Practice](https://codesandbox.io/s/7wkron08oq)
 * [Internal State Practice](https://codesandbox.io/s/8l4nznl5ql)
 * [External State Practice](https://codesandbox.io/s/94w9jrn8qw)
