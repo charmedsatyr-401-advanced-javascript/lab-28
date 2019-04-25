@@ -14,9 +14,9 @@
 
 #### Tests
 * What assertions were made?
-  * Functional tests are made for each dynamic element. Snapshot tests don't seem to run well on codesandbox.
+  * Each dynamic element has functional tests. Snapshot tests don't seem to run well on codesandbox.
 * What assertions need to be / should be made?
-TBD
+  * Snapshot tests could be made locally and used to update the repo.
 
 #### UML
 ![UML](assets/uml.jpg)
